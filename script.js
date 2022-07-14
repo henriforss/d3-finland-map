@@ -109,7 +109,7 @@ function showData() {
       
       d3.select(".div")
         .append("p")
-        .text(`Maastamuuto: ${element.values[3]}`)
+        .text(`Maastamuutto: ${element.values[3]}`)
 
       d3.select(".div")
         .append("p")
